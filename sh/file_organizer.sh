@@ -1,5 +1,4 @@
 #!/bin/bash
-
 # File Organizer Script
 # Organizes files in the current directory by their extensions
 
