@@ -14,5 +14,5 @@ A simple **Bash script** to organize files in a directory based on their extensi
 ## 🔧 Installation
 Clone the repository:
 ```bash
-git clone https://github.com/Whitedevil9103/file-organizer.git
+git clone https://github.com/anshu-sharma-devops/file-organizer.git
 cd file-organizer
